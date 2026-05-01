@@ -34,5 +34,4 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=salihai&show_icons=true&locale=en&layout=compact" alt="salihai top langs" />
-  <img src="https://github-readme-stats.vercel.app/api?username=salihai&show_icons=true&locale=en" alt="salihai stats" />
 </p>

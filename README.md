@@ -32,8 +32,7 @@
 
 <br/>
 
-<h3 align="left">GitHub Stats:</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=salihaipts&show_icons=true&locale=en&layout=compact" alt="salihaipts top langs" />
-  <img src="https://github-readme-stats.vercel.app/api?username=salihaipts&show_icons=true&locale=en" alt="salihaipts stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=salihai&show_icons=true&locale=en&layout=compact" alt="salihai top langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=salihai&show_icons=true&locale=en" alt="salihai stats" />
 </p>
